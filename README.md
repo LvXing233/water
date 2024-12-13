@@ -1,5 +1,14 @@
-water_filter_photon.py  得到水体区域内的ATL03光子数据
-all_directory.py  将水体区域内的ATL03光子进行去噪处理并使用《A Novel Denoising Method Based on Spatial Distribution Hi-erarchical Clustering for Inland Lake Water Level Monitoring》
-                  的方法进去去噪并提取高程
-test_ATL08.py  结合ATL03和ATL08得到水体区域内的信号光子并得到高程
-test_ATL13.py  使用ATL13得到水体区域内的高程
+water_filter_photon.py  :Obtain the ATL03 photon data within the water body area.
+
+all_directory.py :Denoise the ATL03 photon data within the water body area and apply the method from "A Novel Denoising Method Based on Spatial Distribution Hierarchical Clustering for Inland Lake Water Level Monitoring" to perform denoising and extract elevation.
+
+test_ATL08.py ：Combine ATL03 and ATL08 to obtain signal photons within the water body area and derive the elevation.
+
+test_ATL13.py ：Use ATL13 to obtain the elevation within the water body area.
+
+The lake location and water body processing are performed using the developed software. Due to the large size of the software and data, please download it via the provided link. After unzipping, click the exe file to run it.
+Note: The software is currently in the testing version and should not be distributed. "A Novel Denoising Method Based on Spatial Distribution Hierarchical Clustering for Inland Lake Water Level Monitoring" uses the software solely for water body processing.
+【通过百度网盘分享的文件：水位监测软件_20241213_105013
+链接：https://pan.baidu.com/s/1dZ2fZb8m6wkr_4BHVLWvvg?pwd=1111 
+提取码：1111 
+--来自百度网盘超级会员V4的分享】
