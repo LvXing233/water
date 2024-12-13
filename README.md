@@ -1,3 +1,5 @@
+b_tiff_all .py：Used to process precipitation tif data, evapotranspiration tif data, and surface temperature tif data.
+
 water_filter_photon.py  :Obtain the ATL03 photon data within the water body area.
 
 all_directory.py :Denoise the ATL03 photon data within the water body area and apply the method from "A Novel Denoising Method Based on Spatial Distribution Hierarchical Clustering for Inland Lake Water Level Monitoring" to perform denoising and extract elevation.
@@ -12,3 +14,5 @@ Note: The software is currently in the testing version and should not be distrib
 链接：https://pan.baidu.com/s/1dZ2fZb8m6wkr_4BHVLWvvg?pwd=1111 
 提取码：1111 
 --来自百度网盘超级会员V4的分享】
+
+
